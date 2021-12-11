@@ -1,10 +1,14 @@
 # flow
 
-A new Flutter project.
+A new Flutter project that implements a Flow widget in a floating menu.
+
+Some useful resources:
+
+- [Flow Class](https://api.flutter.dev/flutter/widgets/Flow-class.html)
+- [AnimationController Class](https://api.flutter.dev/flutter/animation/AnimationController-class.html)
+- [Animation tutorial in Flutter](https://docs.flutter.dev/development/ui/animations/tutorial)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
